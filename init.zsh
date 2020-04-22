@@ -1,7 +1,7 @@
 
 alias git='hub'
 
-alias reload='source ~/.zshrc'
+alias reload='zimfw install'
 
 alias fuck='sudo $(fc -ln -1)'
 
